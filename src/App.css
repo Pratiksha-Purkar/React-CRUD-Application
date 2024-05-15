@@ -1,0 +1,49 @@
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+p{
+  margin: 0;
+}
+
+form{
+  padding: 0 !important;
+}
+
+.form-container{
+  margin: 1rem;
+  padding: 1.8rem;
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 8px 8px 16px 1px grey;
+  max-width: 95%;
+  overflow-x: hidden;
+}
+
+.form-title{
+  margin-bottom: 1.8rem;
+  margin-left: 0.4rem;
+}
+
+.form-field{
+  margin-bottom: 2rem;
+}
+
+.sidebar {
+  height: 120vh;
+  background-color: #333; /* You can customize the background color */
+  color: white;
+  padding-top: 20px;
+}
+
+.sidebar-options{
+box-shadow: none !important;
+}
+
+Main{
+  padding: 10px !important;
+}
+
+.btn-form-action{
+  width: 6rem !important;
+}
